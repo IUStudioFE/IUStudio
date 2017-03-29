@@ -2,7 +2,7 @@
  * @description compile
  * @author wing
  */
-import getTokens from './getTokens';
+import { lex } from './lexer';
 import parse from './parse';
 import generate from './generate';
 
