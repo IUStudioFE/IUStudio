@@ -24,6 +24,7 @@ module.exports = function() {
                 exclude: /node_modules/
             }]
         },
-        devtool: "inline-source-map"
+        devtool: "inline-source-map",
+        // watch: true
     }
 }

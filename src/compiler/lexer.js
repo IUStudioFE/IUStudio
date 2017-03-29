@@ -34,15 +34,6 @@ function analyState(state) {
   }
 }
 
-/**
-     * <section class="todoapp">
-      <header class="header">
-        <h1>todos</h1>
-        <input class="new-todo" autofocus="autofocus" autocomplete="off" placeholder="What needs to be done?">
-      </header>
-    </section>
-     */
-
 function analyText(state) {
   const template = state.template;
   const len = template.length;
