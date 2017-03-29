@@ -1,0 +1,29 @@
+{
+  "name": "iustudio",
+  "version": "1.0.0",
+  "description": "A MVVM Library",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IUStudioFE/IUStudio.git"
+  },
+  "keywords": [
+    "mvvm",
+    "js",
+    "library"
+  ],
+  "author": "wing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IUStudioFE/IUStudio/issues"
+  },
+  "homepage": "https://github.com/IUStudioFE/IUStudio#readme",
+  "devDependencies": {
+    "babel-core": "^6.24.0",
+    "babel-loader": "^6.4.1",
+    "babel-preset-es2015": "^6.24.0",
+    "babel-preset-stage-2": "^6.22.0",
+    "webpack": "^2.3.2"
+  }
+}
